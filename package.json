@@ -10,6 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "bitcore-lib": "^0.14.0",
+    "bitcore-message": "^1.0.4",
     "bitcore-mnemonic": "^1.2.5"
   }
 }
