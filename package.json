@@ -1,0 +1,15 @@
+{
+  "name": "bitcore-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "bitcore-lib": "^0.14.0",
+    "bitcore-mnemonic": "^1.2.5"
+  }
+}
